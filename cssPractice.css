@@ -1,0 +1,12 @@
+
+h1 {
+color: red;
+}
+
+body {
+color: blue;
+}
+
+head,body {
+font-family: Helvetica;
+}
