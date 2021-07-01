@@ -4,9 +4,10 @@ color: SeaGreen;
 }
 
 body {
-color: blue;
+color: white;
+  background: #141E30; 
 }
 
 head, body {
-font-family: Consolas;
+font-family: Helvetica;
 }
