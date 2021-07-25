@@ -1,4 +1,26 @@
 
+
+
+
+body {
+font-family: Helvetica;
+color: Navy;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.headshot {
+background-color: yellow;
+width = 150px;
+height=150px;
+position: absolute;
+margin: 50px 70px;
+z-index = 10;
+padding: 10px;
+border-radius: 50%;
+}
+
 h1 {
 color: white;
   display: block;
@@ -11,14 +33,4 @@ color: white;
  
 }
 
-body {
-color: navy;
-  background-color: Cornsilk;
-  margin: 0;
-  padding: 0;
-}
 
-head, body {
-font-family: Helvetica;
-  text-align: center;
-}
