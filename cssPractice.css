@@ -4,11 +4,13 @@ color: white;
   text-align: center;
   font-style: bold;
   background-color: blue;
+  margin-top: 0px;
+  height: 40px;
 }
 
 body {
 color: navy;
-  background: beige; 
+  background: rgb(255,240,255); 
 }
 
 head, body {
