@@ -1,7 +1,7 @@
 
 h1 {
 color: white;
-  display: block;
+  display: flex;
   text-align: center;
   font-style: bold;
   background-color: LightSkyBlue;
