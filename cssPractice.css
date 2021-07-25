@@ -9,11 +9,13 @@ color: white;
   padding: 40px;
   width: 100%;
   offset: 0;
+  margin: 0;
+  position: fixed;
 }
 
 body {
 color: navy;
-  background: white; 
+  background-color: white; 
 }
 
 head, body {
