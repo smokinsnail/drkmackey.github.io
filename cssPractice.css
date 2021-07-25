@@ -1,14 +1,14 @@
 
 h1 {
 color: white;
+  text-align: center;
   font-style: bold;
+  background-color: blue;
 }
 
 body {
-color: beige;
-  background: #141E30; 
-  background-image: url('https://newevolutiondesigns.com/images/freebies/4k-space-wallpaper-2.jpg');
-  background-size: 100% 150%;
+color: navy;
+  background: beige; 
 }
 
 head, body {
