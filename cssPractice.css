@@ -1,8 +1,4 @@
 
-img {
-  border-radius: 50%;
-  overflow: hidden;
-}
 
 
 body {
@@ -11,27 +7,33 @@ color: Navy;
   text-align: center;
   margin: 0;
   padding: 0;
+  width: auto;
 }
 
 .headshot {
-background-color: yellow;
-width = 100px;
-height=100px;
+border-radius: 75%;
+height: 150px;
+width: 150px;
+top:50px;
+left:50px;
+padding:0;
+
+display: inline-block;
+z-index: 10;
 position: absolute;
-margin: 50px 70px;
-z-index = 10;
-padding: 10px;
-border-radius: 50%;
+overflow: hidden;
 }
 
 h1 {
 color: white;
   display: block;
+  position: static;
+  width: auto;
   text-align: center;
   font-style: bold;
   background-color: LightSkyBlue;
-  height: 90px;
-  padding: 40px 0;
+  height: 60px;
+  padding:100px 100px 100px 300px;
   margin: 0;
  
 }
